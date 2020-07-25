@@ -56,7 +56,7 @@ echo "<script LANGUAGE=\"JavaScript\">
 
 <!--
 
-window.location=\"payment.html\";
+window.location=\"https://toketdipamer.in/\";
 
 // -->
 
